@@ -35,7 +35,7 @@ balance equations.
 Stormwater would be the main water source for the stream. However, not all watersheds could
 reach the target flow rate (0.04 m^3/s). The average streamflow from November to April would be
 0.05 m^3/s in the eastern watershed, which is greater than the target flow rate. Meanwhile, the
-western watershed only has average streamflow of 0.024 m3/s during this period. Holding ponds
+western watershed only has average streamflow of 0.024 m^3/s during this period. Holding ponds
 could be used to help prevent the flashiness of a stream and store water for use in April, but a
 holding pond would have to be enormous (103680 m^3, the size of a football field 19m deep) to
 give 0.04 m^3/s of water for one month.
